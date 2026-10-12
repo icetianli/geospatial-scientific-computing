@@ -1,6 +1,6 @@
 # Introduction
 
-Week 4 introduces core packages for managing and manipulating gridded raster data, using Digital Elevation Models (DEMs) as a base single-band example.
+Week 4 introduces core packages for managing and manipulating gridded raster data, using ERA5 reanalysis data for gridded climate data and Digital Elevation Models (DEMs) as a single-band raster example.
 
 :::{tip} Learning Objectives
 After this session, you should be able to
