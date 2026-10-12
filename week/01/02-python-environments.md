@@ -80,7 +80,7 @@ Within this course, we are going to be installing a number of further scientific
 
 ```bash
 conda activate gsc
-conda install -c conda-forge python numpy geopandas rioxarray matplotlib
+conda install -c conda-forge python numpy geopandas rioxarray matplotlib netCDF4
 ```
 
 (the command `install -c conda-forge` is telling `conda` to install the listed packages from the `conda-forge` repository, which you can think of as our "app store").
