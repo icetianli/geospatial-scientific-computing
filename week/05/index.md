@@ -4,7 +4,7 @@ Week 5 builds upon Week 4 by introducing multi-band optical satellite data, cons
 
 :::{tip} Learning Objectives
 After this session, you should be able to
- - Understand how we can use `xarray` to represent and work with more complicated multispectral satellite data.
+ - Understand how we can use `xarray` and `rioxarray` to represent and work with 'real' multispectral satellite data.
  - Perform simple band maths and some more complicated classification techniques suited for multispectral analysis.
  - Understand how to search for and download satellite data through online GUI interfaces and Python APIs.
 :::
