@@ -53,12 +53,12 @@ project:
         - file: week/04/02-xarray.ipynb
         - file: week/04/03-rioxarray.ipynb
         - file: week/04/exercises-week-04.ipynb
-    # - file: week/05/index.md
-    #   title: "Optical Satellite Data"
-    #   children:
-    #     - file: week/05/01-optical-data.ipynb
-    #     - file: week/05/02-band-maths.ipynb
-    #     - file: week/05/03-downloading-data.ipynb
+    - file: week/05/index.md
+      title: "Optical Satellite Data"
+      children:
+        - file: week/05/01-optical-data.ipynb
+        - file: week/05/02-band-maths.ipynb
+        - file: week/05/03-downloading-data.ipynb
     #     - file: week/05/exercises-week-05.ipynb
     # - file: week/06/index.md
     #   title: "Formative Assessment"
@@ -83,6 +83,12 @@ project:
     #   title: "Final Project"
     #   # children:
     #   #   - file: pages/chapters/content.md
+    - file: recipes/index.md
+      title: "Recipes"
+      children:
+        - file: recipes/download-landsat.ipynb
+        - file: recipes/download-sentinel-2.ipynb
+        - file: recipes/download-copdem.ipynb
     - title: "Appendix"
       children:
          - file: backmatter/ai.md

@@ -6,11 +6,19 @@ numbering: false
 
 As your environment gets bigger, you might notice that attempting to install new packages becomes very sluggish, and involves long wait times. This is because managing dependencies becomes exponentially more complex the more packages there are. Thus, computing solutions that work for all packages takes longer and longer.
 
-The python community has proposed custom solutions to this. The first thing to do is to update the solver to '`libmamba`': this can be done with the following `conda` command:
+The python community has proposed custom solutions to this. 
+
+## First thing to try
+
+The first thing to do is to update the conda backend solver to '`libmamba`': this can be done with the following `conda` command:
 
 ```bash
 conda config --set solver libmamba
 ```
+
+Check is this has made a notable improvement.
+
+## Second thing to try
 
 If this doesn't notably speed up your installs, the second thing is to manually install the drop-in replacement for `conda`, called `mamba` (this continues the ongoing snake theme of many Python tools...).
 
