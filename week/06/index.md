@@ -2,7 +2,7 @@
 
 Week 6 is consolidation week, with no formal teaching. Congratulations on making it halfway through the course!
 
-In the time before we reconvene, there are two things I would like you to do. The first is to sign up to the services we will be learning how to use in the second half of term; the second is to begin to consider the topic of your final assessment.
+In the time before we reconvene, there are two things I would like you to do. The first is to begin to consider the topic of your final assessment; the second is to sign up to the services we will be learning how to use in the second half of term.
 
 ## Formative Work
 
@@ -10,7 +10,7 @@ As dicussed within the Week 5 lecture and [exercise material](../05/exercises-we
 
 ## Ensure access to new services
 
-We will be using a couple of new
+We will be using a couple of new tools in the second half of term that require additional sign-ups and installations (thankfully, nothing as complex as our initial Python install). Please ensure you have completed the following steps:
 
 ### Google Earth Engine
 
