@@ -59,9 +59,9 @@ project:
         - file: week/05/01-optical-data.ipynb
         - file: week/05/02-band-maths.ipynb
         - file: week/05/03-downloading-data.ipynb
-    #     - file: week/05/exercises-week-05.ipynb
-    # - file: week/06/index.md
-    #   title: "Formative Assessment"
+        - file: week/05/exercises-week-05.ipynb
+    - file: week/06/index.md
+      title: "Consolidation Week"
     # - file: week/07/index.md
     #   title: "Spatiotemporal Analysis"
     #   children:

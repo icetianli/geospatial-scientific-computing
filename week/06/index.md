@@ -4,30 +4,54 @@ Week 6 is consolidation week, with no formal teaching. Congratulations on making
 
 In the time before we reconvene, there are two things I would like you to do. The first is to sign up to the services we will be learning how to use in the second half of term; the second is to begin to consider the topic of your final assessment.
 
-## Sign up to new services
+## Formative Work
 
-### Sign up to Google Earth Engine
+As dicussed within the Week 5 lecture and [exercise material](../05/exercises-week-05.ipynb#extension-task-project-proposal), your formative project proposal is due in Week 7. This will allow you to receive feedback on an idea for your final project report. The full brief for the formative assessment [can be found on the course blackboard](https://www.ole.bris.ac.uk/ultra/courses/_269813_1/outline), under 'Unit Assessment'.
 
-Ensure you have created GitHub and Google Earth Engine accounts necessary for teaching in the second half of term.
+## Ensure access to new services
 
- - If you do not have access to Google Earth Engine account, you will need to:
-   - Ensure you have a Google account.
-   - Sign up for Google Earth Engine by following the [following instructions](https://courses.spatialthoughts.com/gee-sign-up.html).
+We will be using a couple of new
 
-### Sign up to GitHub / Install Git
+### Google Earth Engine
+
+Ensure you have created GitHub and Google Earth Engine accounts necessary for teaching in the second half of term. If you do not have access to Google Earth Engine account, you will need to:
+
+- Ensure you have a Google account.
+- Sign up for Google Earth Engine by following the [following instructions](https://courses.spatialthoughts.com/gee-sign-up.html).
+
+### Github
+
+#### Sign up for GitHub
 
  - If you do not have a GitHub account, sign up for one at [https://github.com/signup](https://github.com/signup).
 
-## Formative Work
+#### Install Git
 
-A full brief of the formative assessment is available on the course Blackboard
+Ensure that `git` is installed on your local machine.
 
-During the week's workshop, we will have short one-on-one conversations where I will ask you about to propose the topic of your final report. You should have the following: 
+::::{tab-set}
 
-1. A proposed report title / land use change that you wish to explore for your final assessment.
-2. Evidence, in the form of satellite imagery, that your chosen land use change is able to be detected from space.
+:::{tab-item} On Windows
+:sync: win
+Download [the Windows installer for the official Git downloads page](https://git-scm.com/install/windows).
 
-I provide feedback on whether your idea is feasible and appropriate.
+Once downloaded, run the installer to begin setup. As you progress through the installer screens, you can keep most of the default settings. However, there will be option to "Adjust PATH Environment": here, ensure the setting selected is _“Git from the command line and also from 3rd-party software”_. This ensures `git` will be available from within the Miniforge prompt automatically.
+:::
+
+:::{tab-item} On MacOS
+:sync: os
+Within your terminal, run the command:
+
+```bash
+xcode-select --install
+```
+
+You may have to continue to prompt the install, either in the terminal (by typing `y` or `yes`), or in an installation wizard window that pops up.
+:::
+
+::::
+
+After installation, typing a command such as `git --version` or `git help -a` should return reasonable responses.
 
 <!-- 
 :::
