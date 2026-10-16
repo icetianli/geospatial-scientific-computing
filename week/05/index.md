@@ -21,7 +21,10 @@ After this session, you should be able to
  - `odc-stac`
    - [Main documentation](https://odc-stac.readthedocs.io/en/latest/)
    - [Access Sentinel-2 Data on the Microsoft Planetary Computer](https://odc-stac.readthedocs.io/en/latest/notebooks/stac-load-S2-ms.html)
-
+ - [USGS Landsat landing page](https://www.usgs.gov/landsat-missions/)
+ - [ESA Sentinel-2 landing page](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)
+ - [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+ - [Copernicus Data Browser for Sentinel-2](https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2)
 <!-- ---
 
 #### draft planning notes
