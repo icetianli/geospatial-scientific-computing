@@ -15,6 +15,12 @@ After this session, you should be able to
 
  - Spatial Thoughts Tutorials -- [Processing Satellite Images with `xarray`](https://www.geopythontutorials.com/notebooks/xarray_processing_satellite_images.html)
  - Earth Data Science Textbook -- [Multispectral Remote Sensing Data in Python](https://earthdatascience.org/courses/use-data-open-source-python/multispectral-remote-sensing/)
+ - Microsoft Planetary Computer 
+   - [Data Catalog](https://planetarycomputer.microsoft.com/CATALOG) (note the 'Example Notebook' tab within each dataset).
+   - [Reading Data from the STAC API](https://planetarycomputer.microsoft.com/docs/quickstarts/reading-stac/) (Note: focusses on searching for data; does not include easy  `odc-stac` downloads)
+ - `odc-stac`
+   - [Main documentation](https://odc-stac.readthedocs.io/en/latest/)
+   - [Access Sentinel-2 Data on the Microsoft Planetary Computer](https://odc-stac.readthedocs.io/en/latest/notebooks/stac-load-S2-ms.html)
 
 <!-- ---
 

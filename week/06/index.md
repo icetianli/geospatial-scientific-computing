@@ -23,11 +23,12 @@ Ensure you have created GitHub and Google Earth Engine accounts necessary for te
 
 #### Sign up for GitHub
 
- - If you do not have a GitHub account, sign up for one at [https://github.com/signup](https://github.com/signup).
+If you do not have a GitHub account, sign up for one at [https://github.com/signup](https://github.com/signup).
 
 #### Install Git
 
-Ensure that `git` is installed on your local machine.
+Ensure that `git` is installed on your local machine. Depending on your install method, this can take a while, so **you should do this _before_ the `git` session in Week 9**.
+
 
 ::::{tab-set}
 
